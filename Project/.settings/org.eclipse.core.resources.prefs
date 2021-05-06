@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/index.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/login.jsp=UTF-8
+encoding//src/ptithcm/controller/AdminController.java=UTF-8
+encoding//src/ptithcm/controller/HangHoaController.java=UTF-8
+encoding//src/ptithcm/controller/HoaDonController.java=UTF-8
+encoding//src/ptithcm/controller/MainController.java=UTF-8
+encoding//src/ptithcm/controller/UserController.java=UTF-8
